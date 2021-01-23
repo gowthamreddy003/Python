@@ -1,1 +1,4 @@
 # Python
+list_comprehension
+spelling_algorithm_I
+spelling_algorithm_II
