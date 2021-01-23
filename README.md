@@ -1,4 +1,1 @@
-# Python
-list_comprehension
-spelling_algorithm_I
-spelling_algorithm_II
+# Python List_Comprehension Spelling_Algorithm_I Spelling_Algorithm_II
